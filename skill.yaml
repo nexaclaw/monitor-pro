@@ -1,0 +1,18 @@
+skill:
+  id: monitor-pro
+  name: 📹 监控助手
+  version: "1.0.0"
+  
+description: |
+  网络监控、异常告警、日志审计
+  
+  Powered by Nexa Claw - https://nexaclaw.cn/
+
+trigger_phrases:
+  - monitor-pro
+  - 📹 监控助手
+
+metadata:
+  author: Nexa Claw
+  website: https://nexaclaw.cn/
+  email: nexaclaw@outlook.com
