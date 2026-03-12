@@ -1,0 +1,17 @@
+{
+  "name": "monitor-pro",
+  "version": "1.0.0",
+  "description": "网络监控、异常告警、日志审计 | Nexa Claw - https://nexaclaw.cn/",
+  "author": {
+    "name": "Nexa Claw",
+    "email": "nexaclaw@outlook.com",
+    "url": "https://nexaclaw.cn/"
+  },
+  "homepage": "https://nexaclaw.cn/",
+  "license": "MIT",
+  "keywords": ["monitor-pro", "Nexa Claw", "AI", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nexaclaw/monitor-pro"
+  }
+}
